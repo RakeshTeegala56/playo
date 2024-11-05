@@ -17,3 +17,4 @@ git commit -m 'message'
 git push -u origin main
 
 ```
+![alt text](images/git.png).
